@@ -1,0 +1,73 @@
+body{
+    margin:0;
+    font-family:'Plus Jakarta Sans', sans-serif;
+    background: linear-gradient(135deg,#8b5cf6,#6366f1);
+}
+
+/* page center */
+.signup-page{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
+/* box */
+.signup-box{
+    width:380px;
+    background:white;
+    padding:30px;
+    border-radius:12px;
+    box-shadow:0 10px 25px rgba(0,0,0,0.2);
+}
+
+/* header */
+.signup-header{
+    text-align:center;
+    margin-bottom:20px;
+}
+
+/* inputs */
+.input-group{
+    margin-bottom:15px;
+}
+
+.input-group label{
+    display:block;
+    margin-bottom:5px;
+}
+
+.input-group input,
+.input-group select{
+    width:100%;
+    padding:10px;
+    border:1px solid #ccc;
+    border-radius:6px;
+}
+
+/* button */
+.button-group button{
+    width:100%;
+    padding:10px;
+    background:#8b5cf6;
+    border:none;
+    color:white;
+    font-size:16px;
+    border-radius:6px;
+    cursor:pointer;
+}
+
+.button-group button:hover{
+    background:#6d28d9;
+}
+
+/* login link */
+.login-link{
+    text-align:center;
+    margin-top:15px;
+}
+
+.login-link a{
+    text-decoration:none;
+    color:#8b5cf6;
+}

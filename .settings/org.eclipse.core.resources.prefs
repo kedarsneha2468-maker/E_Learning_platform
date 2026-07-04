@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/webapp/add_course.jsp=UTF-8
+encoding//src/main/webapp/add_instructor.jsp=UTF-8
+encoding//src/main/webapp/admin_dashboard.jsp=UTF-8
+encoding//src/main/webapp/admin_login.jsp=UTF-8
+encoding//src/main/webapp/admin_signup.jsp=UTF-8
+encoding//src/main/webapp/certificate.jsp=UTF-8
+encoding//src/main/webapp/course_details.jsp=UTF-8
+encoding//src/main/webapp/explore_courses.jsp=UTF-8
+encoding//src/main/webapp/instructor_dashboard.jsp=UTF-8
+encoding//src/main/webapp/student_dashboard.jsp=UTF-8
+encoding//src/main/webapp/submit_assignment.jsp=UTF-8
+encoding//src/main/webapp/view_modules.jsp=UTF-8
+encoding//src/main/webapp/view_submissions.jsp=UTF-8
+encoding/<project>=UTF-8
